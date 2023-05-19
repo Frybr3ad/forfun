@@ -1,0 +1,35 @@
+nav,
+section,
+article,
+aside {
+  border: 3px dotted black;
+  background-color: antiquewhite;
+  text-align: center;
+  margin: 2rem;
+  padding: 2rem;
+}
+#row {
+  display: flex;
+}
+.column {
+  width: 50%;
+}
+footer {
+  border-style: dotted;
+  background-color: antiquewhite;
+  text-align: center;
+  display: flex;
+  margin: 2rem;
+  padding: 1rem;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-style: italic;
+  font-size: 4rem;
+}
+body {
+  background-image: url("https://picsum.photos/id/908/600/400");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
