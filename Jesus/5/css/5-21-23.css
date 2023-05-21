@@ -1,0 +1,43 @@
+* {
+  color: rgb(255, 255, 255);
+}
+body {
+  background-image: url("https://picsum.photos/id/961/600/400");
+}
+nav,
+section,
+aside,
+article {
+  border: 6px double;
+  border-color: rgb(11, 11, 11);
+  background-color: rgb(172, 172, 173);
+  margin: 2rem;
+  padding: 1rm;
+  text-align: center;
+}
+#row {
+  display: flex;
+}
+.column {
+  width: 50%;
+}
+footer {
+  border: 6px double;
+  border-color: rgb(18, 18, 18);
+  background-color: rgb(172, 172, 173);
+  margin: 2rem;
+  padding: 1rem;
+  text-align: center;
+}
+p {
+  text-align: left;
+}
+h1 {
+  /* border: 6px dotted;
+  border-color: blueviolet; */
+  margin: 2rem;
+  text-align: center;
+}
+h3 {
+  color: rgb(18, 18, 18);
+}
