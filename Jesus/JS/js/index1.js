@@ -9,7 +9,7 @@ console.log(
   who can ${cantHeDoIt} to go to heaven with Him and that is God in
   the flesh, Gods one and only precious son ${cure}. Except ${cure} into your heart today, say ${decison} and repent before its too late.`
 );
-
+// next
 let Truth = "God loves everyone";
 let lie = "your not good enough";
 let promise1 =
@@ -20,7 +20,7 @@ let promise4 =
 let promise3 = "I came NOT to call the righteous, but sinners to repentance";
 let conclusions =
   "You are Gods, He loves you so much he knows every hair on your head. Hes waiting for you to invite Him into your life.";
-console.log(` The truth is ${Truth}. Not one person you see God doesnt not love. We can confirm these things in His Holy text that He has left for us. One 
+console.log(` The truth is ${Truth}. Not one person you see God doesnt not love. We can confirm this in His Holy text that He has left for us. One 
 scripture to show how much He loves us is "${promise1}". Here it shows that He would give His only precious son
 but also that He would take this burrden from us and pay for all of our sins, even though He himself is sinless.
 Another is " ${promise2}". He wants us all to be with Him in heaven but He also loves us so much that we get to
