@@ -1,0 +1,48 @@
+nav,
+section,
+article,
+aside {
+  border: 6px dashed;
+  border-color: rgb(55, 107, 58);
+  background-color: rgb(246, 244, 242);
+  margin: 2rem;
+  padding: 0rem;
+  text-align: center;
+}
+#row {
+  display: flex;
+}
+.column {
+  width: 50%;
+}
+footer {
+  border: 6px dashed;
+  border-color: rgb(55, 107, 58);
+  background-color: rgb(247, 248, 250);
+  margin: 2rem;
+  padding: 1rem;
+  text-align: center;
+  font-style: italic;
+}
+h1 {
+  text-align: center;
+  font-style: italic;
+  font-size: 3rem;
+  color: darkolivegreen;
+}
+h2 {
+  color: darkolivegreen;
+  font-style: italic;
+}
+h3 {
+  color: darkolivegreen;
+  font-style: italic;
+}
+p {
+  text-align: left;
+}
+body {
+  background-image: url("https://picsum.photos/id/1040/600/400");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
